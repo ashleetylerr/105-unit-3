@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This is a repository containing instructional materials & sample datasets for Professor Gotzler's Fall 2022 sections of ENGL105 at UNC Chapel Hill.
+This is a repository containing instructional materials & sample datasets for Professor Gotzler's Fall 2022 sections of ENGL105 at UNC Chapel Hill.
 
 The respirtory contains 3 python notebooks:
 1. module on basic topics in coding with Python 3
