@@ -2,18 +2,14 @@
 
 ## Overview
 
-This is a repository containing instructional materials & sample datasets for Professor Gotzler's Fall 2022 sections of ENGL105 at UNC Chapel Hill.
-
-The respirtory contains 3 python notebooks:
-1. module on basic topics in coding with Python 3
-2. module on getting started with the Pandas package
-3. module on using the Pandas package for data analysis
-
-These materials have been adapted from the lessons created by the staff at the Research Hub of UNC's Davis Library (Link).
+This is a repository containing:
+-a .csv file to the County Public Health Data (2014-2015)
+-python notebooks on how to effectively use & work with the stated above
+-
 
 ## Provenence
 
-The CountyPublicHealthData.csv files was provided to me by Professor Gotzler of which he obtained it from (location w/ link?).
+The CountyPublicHealthData.csv files were provided to me by Professor Gotzler of which he obtained it from (location w/ link).
 
 ## Purpose
 
@@ -21,4 +17,4 @@ This data is to be used by anyone & everyone who pleases to explore more on Publ
 
 ## Potential
 
-This repository was created as part of an assignment in the ENGL105 course I'm taking at UNC Chapel Hill.
+This repository was created as part of an assignment in the ENGL105 course I'm taking at UNC Chapel Hill. Others may use this data to explore different aspects of health within different areas of the US, use this data in part with others to look at change regarding health over time, etc.
