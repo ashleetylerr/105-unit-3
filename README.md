@@ -11,7 +11,7 @@
 
 ## Provenence
 
-The CountyPublicHealthData.csv file was provided to me by Professor Gotzler of which he obtained it from (location w/ link).
+The CountyPublicHealthData.csv file was provided to me by Professor Gotzler of which he obtained it from the [UNC Research Hub](https://library.unc.edu/data/).
 
 ## Purpose
 
