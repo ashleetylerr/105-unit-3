@@ -23,4 +23,4 @@ This repository was created as part of an assignment in the ENGL105 course I'm t
 
 For example, here is a graph of the subset I created with the larger county health data:
 
-![Premature Death by WY County](https://github.com/ashleetylerr/105-unit-3/blob/main/premature-death-count-by-wy-county.png)
+![Premature Death by WY County](https://github.com/ashleetylerr/105-unit-3/blob/main/CSV%20Files%20%26%20Visualizations/premature-death-count-by-wy-county.png)
